@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"samad",
+        "place":"kottakkal"
+    },{
+      
+        "id":2,
+        "name":"ihsan",
+        "place":"vengara"  
+    },{
+        
+        "id":3,
+        "name":"arshad",
+        "place":"kottumala"
+    }
+]

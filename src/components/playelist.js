@@ -1,0 +1,73 @@
+export const PlayerList= [
+  {
+    id:1,
+    photo:"https://i.pinimg.com/originals/21/c3/7f/21c37f5445a5296530e3ca91cdd5f42c.jpg",
+    name:"Cristiano Ronaldo",
+    position:"Forward",
+    available:true,
+ },
+ {
+   id:2,
+   photo:"https://i.pinimg.com/736x/85/d0/41/85d0417bf69fa3f155587238ef53d6a9.jpg",
+   name:"Lionel Messi",
+   position:"Forward",
+   available:true,
+   },
+ {
+        id:3,
+        photo:"https://i.pinimg.com/originals/5e/0b/bf/5e0bbffde46d365b73086f51e04b2161.jpg",
+        name:"Neymar",
+        position:"Forward",
+        available:true,
+ },
+ {
+    id:4,
+    photo:"https://i.samaaenglish.tv/large/2022/08/20135824861b8db.jpg",
+    name:"Casemiro",
+    position:"Midfilder",
+    available:true,
+    },
+    {
+        id:5,
+        photo:"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltc2fe5b81d294c45c/6225b5b6e74bec0b12ad36ab/GettyImages-1381404937.jpg",
+        name:"Kevin De Bruyne",
+        position:"Midfilder",
+        available:true,
+     },
+     {
+            id:6,
+            photo:"https://i.guim.co.uk/img/media/884e00f566dbadd02a0bc87daf28d8863db8e20f/0_86_4868_2920/master/4868.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e2deed38d42bf0d23b39e0540496af62",
+            name:"Luka Modrić",
+            position:"Midfilder",
+            available:true,
+     },
+     {
+        id:7,
+        photo:"https://netstorage-sportsbrief.akamaized.net/images/00119ea336903239.jpg",
+        name:"Sergio Ramos",
+        position:"Difender",
+        available:true,
+        },
+        {
+          id:8,
+          photo:"https://e0.365dm.com/22/07/768x432/skysports-lisandro-martinez_5824478.jpg?20220705145121",
+          name:"Lisandro Martínez",
+          position:"Difender",
+          available:true,
+   },
+        {
+            id:9,
+            photo:"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt52bd59560c6b08b5/61803ce59c2fb11081d044ff/c1c4dd69a8a0268a4b8c46ea4c71fe06d91e8fdc.jpg",
+            name:"Buffon",
+            position:"Goal keeper",
+            available:true,
+         },
+         {
+          id:10,
+          photo:"https://img.a.transfermarkt.technology/portrait/big/241641-1520189140.jpg?lm=1",
+          name:"Bernado Silva",
+          position:"Midfielder",
+          available:true,
+   },
+
+];

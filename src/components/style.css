@@ -1,0 +1,86 @@
+.dropdown-player{
+    display: flex!important;
+    justify-content: center;
+    margin-top: -80px;
+}
+.icon{
+    width: 2em!important;
+    height: 2em!important;
+    color: '#0080FFy';
+}
+.player-form{
+    margin-top: 50px!important;
+    padding: 20px!important;
+}
+.teamimg{
+    width: 250px;
+    height: 250px;
+   
+}
+.border{
+    border-bottom: 2px solid red;
+    padding-bottom: 5px;
+}
+.link{
+    text-decoration:none;
+    color: rgb(164, 164, 164);
+}
+.cardbackground{
+    
+   background-image: url('https://wallpaperaccess.com/full/3884440.jpg');
+   background-image: linear-gradient(to bottom rgba(0,0,0,1)0%,rgba(0,0,0,0)100%);
+   background-repeat: repeat;
+   position: relative;
+   padding-top: 70px;
+ 
+
+}
+.heding{
+    position: relative;
+    text-align: center;
+    color: rgb(1, 1, 18);
+}
+
+.header-style{
+    background-image: linear-gradient(to bottom rgb(40, 40, 40)0%,rgba(0,0,0,0)100%);
+    position: absolute;
+    z-index: 2;
+    top:1px;
+    width: 100%;
+}
+.link{
+    font-size: 20px;
+    transition: ease 3s;
+}
+.link:hover{
+    color: rgb(99, 240, 240);
+}
+.playerstyle{
+    background-image: url('https://wallpaperaccess.com/full/222512.jpg');
+    background-size: cover;
+    padding-top: 70px;
+    
+    
+}
+.team-style{
+    background-image: url('https://wallpaperaccess.com/full/222512.jpg');
+    background-size: cover;
+    padding-top: 70px;
+}
+.teamdeatailsstyle{
+     background-image: url('https://wallpaperaccess.com/full/222512.jpg'); 
+     background-size: cover;
+    padding-top: 70px;
+}
+.bdcolor{
+    
+}
+.cardimgbackground{
+    background-image: url('https://th.bing.com/th/id/OIP.CGyaCC3KVpPv2QjagqUC_wHaFX?w=258&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+     background-size: cover;
+
+}
+.cardback{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/581/300/original/abstract-summer-polygonal-background-spring-nature-orange-color-vector.jpg');
+    background-size: cover;
+}
